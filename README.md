@@ -1,2 +1,2 @@
 My first readme
-Overthinking kills man
+Overthinking kills man, dont do it.
